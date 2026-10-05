@@ -2,7 +2,7 @@
 
 ## Project Overview
 A data analysis and visualization project for UK Train Rides using Power BI.
-
+The railway dataset consists of 31,653 rows and 18 columns, capturing comprehensive records of ticket purchases, journey details, and operational performance. It details transaction attributes such as purchase channels, payment methods, ticket classes, and prices, alongside travel logistics like departure and arrival stations. Additionally, it records operational outcomes including journey status, delay reasons, and refund requests, enabling detailed analysis of passenger behavior and rail network punctuality.
 ---
 
 ## Team Members
