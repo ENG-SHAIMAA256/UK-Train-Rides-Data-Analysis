@@ -23,3 +23,14 @@ The railway dataset consists of 31,653 rows and 18 columns, capturing comprehens
 ## Project Resources
 Google Drive Link: [https://drive.google.com/drive/folders/17F-C4iJhxwRcGabDf0WDzpJoC8UiWtDy?usp=drive_link]# UK-Train-Rides-Data-Analysis
 Data analysis, demand forecasting, and Power BI interactive dashboard for UK Train Rides.    
+
+
+
+  ## 🧹 Data Cleaning & Preprocessing
+
+In this phase, the raw dataset underwent thorough cleaning and preparation using **Power Query / Python** to ensure data integrity and accuracy before modeling and analysis:
+
+* **Handling Missing Values:** Handled nulls in delay reasons and refund status by categorizing non-delayed/non-refunded trips appropriately.
+* **Data Type Standardization:** Corrected data types for date/time columns, currency values, and categorical fields.
+* **Calculated Columns & Features:** Created custom duration calculations, peak vs. off-peak tags, and route grouping identifiers.
+* **Data Validation:** Checked and removed duplicates, inconsistent station names, and invalid negative prices or time intervals.
